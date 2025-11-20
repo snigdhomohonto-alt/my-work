@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+.nv{
+            background-color: rgb(44, 114, 91);
+            padding: 30px;
+            display: block;
+            text-align: right;
+        }
+        .box1,.box2,.box3,.box4,.box5{
+            display: inline;
+            margin: 2px 0px;
+            padding: 10px;
+            font-size: 30px;
+        }
+        .box7{
+            display: block;
+            text-align: left;
+        }
+
+
+
+h1{
+    background-color: aquamarine;
+ border-bottom: 3px solid red;
+    display: inline;
+}
+div{
+    display: block;
+    text-align: center;
+}
